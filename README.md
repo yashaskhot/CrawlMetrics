@@ -81,6 +81,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you'd like to contribute to Crawl Metrics, feel free to open an issue or submit a pull request.
 
+## OpenSource Libraries Used
+- beautifulsoup4
+- reportlab
+- Requests
+- lighthouse
 ---
 
 Happy crawling and optimizing!
