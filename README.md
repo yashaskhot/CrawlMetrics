@@ -9,6 +9,13 @@ Crawl Metrics is an SEO auditing tool built in Python. It crawls websites, check
 - Count headings (h1-h6) and images, and identify images without alt text
 - Perform Lighthouse audits for performance, accessibility, best practices, and SEO
 - Display Core Web Vitals (LCP, FID, CLS)
+- Heading Distribution Graph (H1 to H6).
+- HTTPS Check for secure connections.
+- Internal and External Links Count.
+= Broken Links Detection.
+- Mobile-Friendliness Test.
+- Meta Tags Analysis (title, description).
+- Keyword Frequency and Density Analysis.
 
 ## Project Setup
 
